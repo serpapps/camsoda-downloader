@@ -1,57 +1,18 @@
-# Camsoda Downloader
+# Camsoda Downloader - GitHub Pages
 
-> https://serp.ly/camsoda-downloader
+This branch contains the GitHub Pages site for Camsoda Downloader.
 
-![Camsoda Downloader](https://raw.githubusercontent.com/serpapps/camsoda-downloader/assets/images/camsoda-downloader.gif)
+## Live Site
 
-Camsoda Downloader is a powerful tool that helps you download content from Camsoda instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
+Visit the live site at: https://serpapps.github.io/camsoda-downloader
 
-## 🔗 Links
+## Contents
 
-- 🎁 Get it [here](https://serp.ly/camsoda-downloader)
-- ❓ Check FAQs [here](https://github.com/orgs/serpapps/discussions/categories/faq)
-- 🐛 Report bugs [here](https://github.com/serpapps/camsoda-downloader/issues)
-- 🆕 Request features [here](https://github.com/serpapps/camsoda-downloader/issues)
+- `docs/index.html` - Main landing page with product information and links
+- This site is automatically served by GitHub Pages from the `gh-pages` branch
 
-### Resources
+## About the Project
 
-- 💬 [Community](https://serp.ly/@serp/community)
-- 💌 [Newsletter](https://serp.ly/@serp/email)
-- 🛒 [Shop](https://serp.ly/@serp/store)
-- 🎓 [Courses](https://serp.ly/@serp/courses)
+Camsoda Downloader is a powerful tool that helps you download content from Camsoda instantly without ads or popups. 
 
-## Features
-
-- Stream-to-file conversion
-- HD quality downloads
-- Batch download support
-- Resume interrupted downloads
-- No watermarks
-- Content extraction
-
-## Installation Instructions
-
-1. Clone the repository: git clone https://github.com/serpapps/camsoda-downloader
-2. Install dependencies
-3. Configure settings
-4. Run the application
-
-## Usage Instructions
-
-1. Open the application
-2. Enter the URL of the content you want to download
-3. Select your preferred quality and format
-4. Click download to start the process
-5. Files will be saved to your specified directory
-
-## Technologies
-
-- Python
-- JavaScript
-- Node.js
-- Automation
-
-## More Info
-
-- 📁 Repository [here](https://github.com/serpapps/camsoda-downloader)
-
+For the main project repository and source code, visit: https://github.com/serpapps/camsoda-downloader
