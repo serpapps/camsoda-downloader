@@ -1,6 +1,6 @@
 # Camsoda Downloader
 
-> https://serp.ly/camsoda-downloader
+> Capture Camsoda streams and private sessions with automated recording features
 
 ![Camsoda Downloader](https://raw.githubusercontent.com/serpapps/camsoda-downloader/assets/images/camsoda-downloader.gif)
 
@@ -54,4 +54,10 @@ Camsoda Downloader is a powerful tool that helps you download content from Camso
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/camsoda-downloader)
+
+<details>
+<summary>Keywords</summary>
+
+camsoda downloader
+</details>
 
