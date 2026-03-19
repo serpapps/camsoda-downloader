@@ -139,19 +139,19 @@ Start here: [https://serp.ly/camsoda-video-downloader](https://serp.ly/camsoda-v
 
 ## FAQ
 
-**Can I record CamSoda live streams**  
+**Can I record CamSoda live streams?**  
 Yes. Active CamSoda live rooms can be recorded while they are broadcasting.
 
-**Can I download saved videos too**  
+**Can I download saved videos too?**  
 Yes. The extension supports saved CamSoda videos on supported pages.
 
-**What file format do downloads use**  
+**What file format do downloads use?**  
 Videos are saved as MP4 files.
 
-**Where are videos saved**  
+**Where are videos saved?**  
 They are saved to your default Downloads location, typically inside a CAMSODA subfolder.
 
-**Do I need extra software**  
+**Do I need extra software?**  
 No. Everything runs through the browser extension.
 
 ## Notes
